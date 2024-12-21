@@ -1,0 +1,11 @@
+global-styling:
+  version: 1.0
+  css:
+    theme:
+      # Include the Bootstrap 5 CSS from the base theme
+      theme://css/bootstrap.min.css: {}
+      # Add any custom CSS here (for your own styles)
+      css/custom-style.css: {}
+  js:
+    # Include Bootstrap JS
+    theme://js/bootstrap.bundle.min.js: {}

@@ -1,6 +1,7 @@
 # Drupal core and modules managed by Composer
 /web/core/
 /web/modules/contrib/
+/web/themes/contrib/
 /web/profiles/contrib/
 
 # Composer dependencies and lock file
